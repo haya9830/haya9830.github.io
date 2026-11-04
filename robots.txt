@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://haya9830.github.io/sitemap.xml

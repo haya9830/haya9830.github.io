@@ -1,0 +1,13 @@
+公開情報の確認先 / 2026-10-26
+
+プロフィール・技術スタック
+https://github.com/haya9830/haya9830/blob/main/README.md
+  技術スタックの区分と内容を2026-10-26に確認。README blob SHA: a4bb1ee3a74887bb10b09c6063f40c129f538ccf
+
+Fuel Apply (MVP)
+https://github.com/haya9830/fuel_apply/blob/main/README.md
+https://github.com/haya9830/fuel_apply/blob/main/package.json
+
+技術アイコン
+https://github.com/tandpfun/skill-icons
+  MIT License。本文はassets/skills/NOTICE.txtに同梱。
